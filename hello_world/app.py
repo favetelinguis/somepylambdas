@@ -14,7 +14,7 @@ patch_all()
 import epsagon
 
 epsagon.init(
-    token='97e6b31f-4522-4b63-89a1-b9dad25ae1a8',
+    token='',
     app_name='Epsagon SAM Example',
     metadata_only=False,
 )
